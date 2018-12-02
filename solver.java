@@ -1,3 +1,8 @@
+// Charles Alan Macon
+// CSCE 4430 - Assignment 8
+//
+// This is the last programming assignment I will ever do at UNT.
+
 public class solver {
 	
 	public static void main(String[] args) {
